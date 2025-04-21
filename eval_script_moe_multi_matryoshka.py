@@ -30,7 +30,6 @@ Think about a day you felt happy.
 Write about that day.
 You can answer these questions to help you:
 When was that day? Where were you? What did you do? Who was with you? Why was that your favorite day?
-Write between 80-120 words
 """,
 """search_document:
 In the year of last year, my graduation day was the happiest day in my life. The ceremony was held in a big hall, and my family and friends were there. When they called my name and I went up to the stage to receive my diploma, I felt proud and very happy. After the ceremony, we all went to my favorite restaurant for dinner, and we talked for a long time and laughed a lot. It was a special day because I felt that all my hard work during the past years paid off, and I was surrounded by people who loved me and supported me always.
